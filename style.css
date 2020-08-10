@@ -1,0 +1,12 @@
+.designs{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.about{
+    background-color:rosybrown;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
